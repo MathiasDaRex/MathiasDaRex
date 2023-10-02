@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MathiasDaRex
-- 👀 I’m interested in advancing myself in java
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on smaller java or python projects
+- 🌱 I’m currently advancing myself in java
+- 💞️ I’m looking to collaborate on smaller java or projects
 - 📫 How to reach me gyorkematyas@gmail.com
 
 <!---
